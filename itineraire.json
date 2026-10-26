@@ -1,0 +1,283 @@
+{
+  "pays": "Côte d'Ivoire",
+  "drapeau": "🇨🇮",
+  "symbole": "🌴",
+  "titre": "Douceur lagunaire et escales bien-être à Abidjan",
+  "budget_total": "Environ 880 €/personne",
+  "duree": "8 jours",
+  "temps_vol": "1h50 (format: 1h50 depuis Conakry international airport, guinee)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée feutrée à Abidjan",
+      "legende": "Après un court vol au-dessus du littoral ouest-africain, atterrissez dans la vibrante capitale économique ivoirienne.\nPrenez possession de votre chambre dans le quartier arboré de Cocody pour une première soirée sans aucune contrainte.\nProfitez d'un premier dîner paisible en terrasse bercé par les températures douces et l'air tropical.\nUne excellente mise en bouche sans hâte pour débuter le séjour ressourçant.",
+      "lieu": "Abidjan",
+      "activites": [
+        "<strong>🛬 Arrivée à Abidjan</strong>: Atterrissage à l'aéroport Félix-Houphouët-Boigny et transfert fluide vers votre hébergement.",
+        "<strong>🛏️ Installation à Cocody</strong>: Posez vos valises dans un hôtel chaleureux et détendez-vous au bord de la piscine.",
+        "<strong>🌅 Crépuscule sur la lagune</strong>: Promenade digestive en soirée pour contempler les reflets scintillants des ponts sur l'eau."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport International Félix-Houphouët-Boigny, Abidjan",
+          "categorie": "Aéroport",
+          "coords": { "lat": 5.2614, "lng": -3.9263 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Arrivée sereine",
+          "texte": "Pour vos déplacements urbains, privilégiez les applications de VTC locales comme Yango pour un confort optimal sans négociation."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Patrimoine et quiétude au Plateau",
+      "legende": "Consacrez votre matinée à la visite du quartier historique et administratif du Plateau sans stress.\nExplorez la richesse des civilisations ivoiriennes à travers des collections d'art traditionnel inestimables.\nPrenez le temps d'admirer la silhouette futuriste et lumineuse de la cathédrale emblématique de la ville.\nTerminez par une pause gourmande dans un café ombragé à l'abri du tumulte citadin.",
+      "lieu": "Le Plateau, Abidjan",
+      "activites": [
+        "<strong>🏛️ Musée des Civilisations de Côte d'Ivoire</strong>: Admirez des masques ancestraux, parures royales et instruments traditionnels dans un cadre calme.",
+        "<strong>⛪ Visite de la Cathédrale Saint-Paul</strong>: Contemplez les vitraux monumentaux et profitez d'une vue dégagée sur la lagune Ébrié."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée des Civilisations de Côte d'Ivoire, Abidjan",
+          "categorie": "Musée",
+          "coords": { "lat": 5.3341, "lng": -4.0188 }
+        },
+        {
+          "nom_recherche": "Cathédrale Saint-Paul d'Abidjan, Abidjan",
+          "categorie": "Édifice religieux",
+          "coords": { "lat": 5.3283, "lng": -4.0202 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "✨",
+          "titre": "Architecture",
+          "texte": "La cathédrale Saint-Paul, consacrée par le pape Jean-Paul II en 1985, surprend par sa forme triangulaire audacieuse."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌿",
+      "titre": "Bain de verdure au Parc National du Banco",
+      "legende": "Immergez-vous dans l'authentique poumon vert d'Abidjan lors d'une promenade végétale reposante.\nMarchez sous les frondaisons centenaires sans effort particulier sur des sentiers parfaitement entretenus.\nRespirez l'arôme de la forêt tropicale et observez les papillons multicolores au fil des allées calmes.\nUne journée détoxifiante en plein cœur de la ville qui ravive le corps et l'esprit.",
+      "lieu": "Parc National du Banco, Abidjan",
+      "activites": [
+        "<strong>🌳 Balade douce au Parc National du Banco</strong>: Flânez à pied le long de la piste principale sous une canopée rafraîchissante et silencieuse.",
+        "<strong>🍵 Pause rafraîchissante en maquis de charme</strong>: Savourez un jus de gingembre ou de bissap glacé dans un jardin paysager à Cocody."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parc National du Banco, Abidjan",
+          "categorie": "Parc naturel",
+          "coords": { "lat": 5.3789, "lng": -4.0538 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍃",
+          "titre": "Oxygénation",
+          "texte": "Le Banco est l'une des rares forêts primaires au monde préservées au milieu d'une métropole dense."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌊",
+      "titre": "Échappée nostalgique à Grand-Bassam",
+      "legende": "Prenez la route côtière en direction de la première capitale coloniale de la Côte d'Ivoire.\nFlânez paisiblement dans les allées chargées d'histoire du quartier France classé au patrimoine mondial.\nÉcoutez le murmure des vagues océaniques en profitant d'un déjeuner décontracté face à l'océan Atlantique.\nUne journée intemporelle où le temps semble ralentir sous les grands palmiers.",
+      "lieu": "Grand-Bassam",
+      "activites": [
+        "<strong>🏛️ Promenade dans le Quartier France</strong>: Découvrez d'anciennes bâtisses coloniales rénovées et rencontrez des créateurs de céramique et de batik.",
+        "<strong>🥥 Détente iodée en bord de plage</strong>: Savourez un déjeuner de poisson grillé les pieds presque dans le sable fin."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée National du Costume, Grand-Bassam",
+          "categorie": "Musée",
+          "coords": { "lat": 5.1959, "lng": -3.7381 }
+        },
+        {
+          "nom_recherche": "Plage de Grand-Bassam, Grand-Bassam",
+          "categorie": "Plage",
+          "coords": { "lat": 5.1925, "lng": -3.7339 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Baignade",
+          "texte": "La barre côtière atlantique peut générer de forts courants; préférez la détente sur le sable et la piscine de votre restaurant de plage."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🚤",
+      "titre": "Douceur insulaire sur l'Île Boulay",
+      "legende": "Embarquez pour une brève navigation lagonaire à destination de la célèbre Baie des Milliardaires.\nLoin de toute circulation automobile, savourez le calme serein de ce havre de paix tropical.\nPrenez le temps de bouquiner dans un hamac ou de tremper vos pieds dans une eau tiède et calme.\nUn intermède exclusif de pure détente au milieu de cocoteraies verdoyantes.",
+      "lieu": "Île Boulay, Abidjan",
+      "activites": [
+        "<strong>🚤 Traversée relaxante en bateau-bus</strong>: Glissez sur les eaux calmes de la lagune Ébrié tout en observant le port endormi.",
+        "<strong>🏖️ Farniente à la Baie des Milliardaires</strong>: Profitez d'une cabane aménagée pour vous prélasser au son discret de la brise marine."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Île Boulay, Abidjan",
+          "categorie": "Île",
+          "coords": { "lat": 5.2833, "lng": -4.1167 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "⛵",
+          "titre": "Transport d'eau",
+          "texte": "De nombreux hôtels et pontons privés de Marcory ou Bietry organisent des navettes régulières très sécurisées et reposantes."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🎨",
+      "titre": "Artisanat d'art et quiétude à Biétry",
+      "legende": "Découvrez le savoir-faire artisanal local sans l'agitation des grands marchés populaires.\nParcourez les étals ordonnés du Centre Artisanal pour admirer perles, sculptures et bronzes ouvragés.\nTerminez l'après-midi dans le quartier résidentiel paisible de Biétry pour un salon de thé en bord d'eau.\nUne journée tout en douceur, axée sur les rencontres artistiques et les petits plaisirs.",
+      "lieu": "Marcory / Zone 4, Abidjan",
+      "activites": [
+        "<strong>🛍️ Balade au Centre Artisanal de la Ville d'Abidjan (CAVA)</strong>: Parcourez un village artisanal paisible et fleuri pour dénicher des souvenirs soignés.",
+        "<strong>🍰 Salon de thé en bord de lagune</strong>: Dégustez une pâtisserie fine et un thé parfumé dans une cour ombragée de Zone 4."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "CAVA Centre Artisanal de la Ville d'Abidjan, Abidjan",
+          "categorie": "Marché artisanal",
+          "coords": { "lat": 5.3045, "lng": -3.9922 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🤝",
+          "titre": "Négociation bienveillante",
+          "texte": "Au CAVA, les prix se négocient avec un grand sourire et courtoisie, dans une atmosphère très décontractée."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🌺",
+      "titre": "Jardin botanique et histoire à Bingerville",
+      "legende": "Prenez la direction de l'est abidjanais pour explorer l'ancienne capitale coloniale pleine de charme.\nPromenez-vous dans les allées impériales du jardin botanique sous des bambous géants majestueux.\nProfitez du calme absolu de ce parc historique pour un pique-nique ou une méditation au vert.\nSavourez votre dernier dîner ivoirien dans un maquis chic pour célébrer la fin du périple.",
+      "lieu": "Bingerville",
+      "activites": [
+        "<strong>🌱 Balade au Jardin Botanique de Bingerville</strong>: Arpentez les 55 hectares de flore tropicale, d'arbres centenaires et de massifs fleuris reposants.",
+        "<strong>🍲 Dîner savoureux d'au revoir</strong>: Dégustez un poisson braisé mariné aux épices douces dans une ambiance musicale feutrée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardin Botanique de Bingerville, Bingerville",
+          "categorie": "Jardin botanique",
+          "coords": { "lat": 5.3567, "lng": -3.8964 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🌿",
+          "titre": "Arbre mémoire",
+          "texte": "Plusieurs spécimens rares plantés au début du XXe siècle peuplent encore les sentiers ombragés du jardin."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🛫",
+      "titre": "Dernières douceurs et envol pour Conakry",
+      "legende": "Prenez un petit-déjeuner copieux et détendu au bord de l'eau avant de boucler vos bagages.\nFaites une halte gourmande pour acheter du véritable chocolat ivoirien pur beurre de cacao.\nRejoignez l'aéroport Félix-Houphouët-Boigny en début d'après-midi l'esprit léger et revigoré.\nEmbarquez pour votre vol retour direct vers Conakry avec de superbes souvenirs.",
+      "lieu": "Abidjan",
+      "activites": [
+        "<strong>🍫 Emplettes gourmandes de cacao local</strong>: Choisissez des tablettes de chocolat artisanal ivoirien d'exception pour vos proches.",
+        "<strong>🛫 Décollage pour Conakry</strong>: Formalités rapides et vol retour confortable vers la Guinée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport International Félix-Houphouët-Boigny, Abidjan",
+          "categorie": "Aéroport",
+          "coords": { "lat": 5.2614, "lng": -3.9263 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🛄",
+          "titre": "Cacao ivoirien",
+          "texte": "La Côte d'Ivoire est le 1er producteur mondial de fèves de cacao; le chocolat équitable artisanal y est savoureux et raffiné."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 109 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "85 €/pers (taxis VTC et navettes lagon)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "210 €/pers (restaurants décontractés et maquis)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "420 €/pers (7 nuits en hôtel 3 étoiles tout confort)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "56 €/pers (musées, jardins et traversées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Novembre à Mars (saison sèche la plus agréable)", "symbole": "☀️" },
+    { "titre": "Juillet à Août (petite saison sèche, ciel tempéré)", "symbole": "⛅" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mars, les températures oscillent entre 25 et 32°C avec une douce brise côtière. Privilégiez des vêtements légers en lin ou coton.", "symbole": "🌡️" },
+    { "titre": "La monnaie est le Franc CFA (XOF). Les cartes bancaires sont prises en compte dans les hôtels et grands restaurants, prévoyez du liquide pour les artisans.", "symbole": "💳" },
+    { "titre": "Pour vous déplacer sereinement sans négocier chaque trajet, utilisez les applications locales de VTC (Yango, Heetch) largement disponibles.", "symbole": "🚗" },
+    { "titre": "Cartes SIM locales (Orange, MTN, Moov) facilement accessibles à l'aéroport sur présentation de votre passeport.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le quiproquo d'origine",
+      "texte": "Selon la tradition orale, le nom d'Abidjan viendrait d'un malentendu : un colon demandant son chemin à une villageoise portant des branchages, celle-ci répondit en langue ébrié 'Tchan m'bi djan' signifiant 'Je coupe des feuilles'."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "La Manhattan d'Afrique",
+      "texte": "Le quartier d'affaires du Plateau est surnommé 'Le Manhattan des Tropiques' car ses imposants gratte-ciels surgissent directement au-dessus des eaux calmes de la lagune Ébrié."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🐟",
+      "titre": "L'Attiéké-poisson braisé",
+      "texte": "Semoule fine de manioc fermenté à la texture aérienne, servie avec un bar ou une dorade marinée et grillée à la perfection, agrémentée de piment doux et tomates fraîches."
+    },
+    {
+      "symbole": "🍌",
+      "titre": "L'Alloco",
+      "texte": "Bananes plantains mûres frites à l'huile végétale, croustillantes à l'extérieur et fondantes à cœur, traditionnellement accompagnées d'une sauce tomate pimentée et d'œufs durs."
+    },
+    {
+      "symbole": "🍲",
+      "titre": "Le Kedjenou de poulet",
+      "texte": "Ragoût traditionnel mijoté à l'étouffée dans un canari de terre cuite hermétique avec légumes, gingembre et herbes locales, sans ajout d'eau pour préserver tous les sucs."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Conakry - Abidjan", "url": "https://www.kayak.fr/flights/CKY-ABJ/2027-03-10/2027-03-17", "symbole": "🛬" },
+    { "legende": "Infos officielles du tourisme ivoirien", "titre": "Côte d'Ivoire Tourisme", "url": "https://cotedivoiretourisme.ci/", "symbole": "📘" },
+    { "legende": "Aéroport d'Abidjan", "titre": "Aeria Abidjan", "url": "https://aeria-ci.com/", "symbole": "✈️" },
+    { "legende": "Prévisions météo locales", "titre": "Météo Côte d'Ivoire", "url": "https://meteofrance.com/", "symbole": "🌤️" }
+  ]
+}
